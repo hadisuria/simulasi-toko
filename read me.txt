@@ -1,0 +1,6 @@
+#PROGRAM PERGUDANGAN
+By Hadi Suria
+
+id owner : owner
+pw owner : owner
+pin owner : 123456
