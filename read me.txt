@@ -1,6 +1,45 @@
 #PROGRAM PERGUDANGAN
 By Hadi Suria
 
-id owner : owner
-pw owner : owner
-pin owner : 123456
+Program berisi tentang simulasi kegiatan pergunakan seperti data keluar masuk barang karyawan dll.
+Program ini dibuat dengan tujuan untuk pembelajaran konsep OOP pada bahasa pemograman C++.
+
+Berikut adalah tampilan menu dari program:
+  Notes: // untuk login owner
+  id owner : owner
+  pw owner : owner
+  pin owner : 123456
+
+// Menu awal
+ +-------------+
+ | "KEMBANGAN" |
+ +-------------+
+  1. Login
+  0. Exit
+
+  Choice:
+  
+// Menu Owner
+  +--------------------------+
+  | "KEMBANGAN SHOP [owner]" |
+  +--------------------------+
+  1. List barang
+  2. Take out
+  3. Koreksi barang
+  4. Tambah barang baru
+  5. Tambah staff
+  6. Hapus staff
+  0. Exit
+
+  Choice:
+
+// Menu Staff
+  +--------------------------+
+  | "KEMBANGAN SHOP [staff]" |
+  +--------------------------+
+  1. List barang
+  2. Take out
+  3. Change password
+  0. Exit
+
+  Choice:
